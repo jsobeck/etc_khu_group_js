@@ -41,6 +41,9 @@ If necessary, activate the appropriate conda environment.  Then, type the follow
 
 After hitting enter, a GUI interface to the ETC should pop up.  Please enter all necessary values into the GUI interface. 
 
+There are 4 calculation modes available to users: `S/N` (determine SNR estimate given target and site information as well as initial exposure time), 
+`Exp. Time`(), `S/N v. Magnitude` (), and `S/N v. Wavelength` ().
+
 For the calculations of `S/N` and `Exp. Time`, output data will appear on the terminal screen. 
 
 For the calculations of `S/N v. Magnitude` and `S/N v. Wavelength`, the associated output plot data will appear in a separate display screen (generated with the matplotlib API).
